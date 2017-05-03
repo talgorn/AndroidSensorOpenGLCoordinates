@@ -1,5 +1,6 @@
 # AndroidSensorOpenGLCoordinates
 A visual tool to help understand the relation between Android sensors and OpenGL coordinate system.
+
 HOW TO USE IT:
 1. Put your cellphone flat, facing north.
 2. Sensor coordinates on top will display roughly 0,0,0 (Radians)
